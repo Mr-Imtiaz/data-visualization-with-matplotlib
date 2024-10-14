@@ -23,3 +23,8 @@ To get started with the scripts in this repository, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/data-visualization-with-matplotlib.git
+
+Install Matplotlib if you haven't already:
+```
+pip install matplotlib
+```
